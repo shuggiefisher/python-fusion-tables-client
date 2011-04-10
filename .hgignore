@@ -1,0 +1,4 @@
+\.svn$
+^.*\.pyc$
+^fusion_table_client.egg-info
+

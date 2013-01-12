@@ -1,3 +1,8 @@
+This repo is a git fork of https://bitbucket.org/svevang/python-fusion-tables-client/overview
+which itself is based on google's (now depreceated) python client for the google fusion tables API.
+
+This code is maintained to be used with the django-fusion-tables app see: https://github.com/shuggiefisher/django-fusion-tables
+
 OVERVIEW:
 
 The python Fusion Tables Client library helps you connect and run queries on 
